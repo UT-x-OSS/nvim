@@ -25,9 +25,7 @@ return {
         "bash-language-server",
         "intelephense",
         "jdtls",
-        "ltex-ls",
         "ruff-lsp",
-        "rust-analyzer",
         "html-lsp",
         "css-lsp",
         "tailwindcss-language-server",
@@ -130,8 +128,8 @@ return {
             hint_prefix = "💡 ",
             hint_scheme = "Remember",
             handler_opts = { border = "rounded" },
-            max_height = 8,
-            max_width = 80,
+            max_height = 10,
+            max_width = 30,
             toggle_key = "<C-s>",
             fix_pos = true,
             transparency = 20,
@@ -153,7 +151,7 @@ return {
       table.insert(opts.sources, 1, {
         name = "supermaven",
         option = {
-          max_item_count = 10, -- minta 5 saran dari supermaven
+          max_item_count = 100, -- minta 5 saran dari supermaven
         },
       })
     end,
