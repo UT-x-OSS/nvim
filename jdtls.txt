@@ -1,0 +1,5 @@
+mkdir -p ~/.local/share/jdtls && curl -L https://download.eclipse.org/jdtls/snapshots/jdt-language-server-latest.tar.gz | tar -xz -C ~/.local/share/jdtls
+
+
+di linux kalian tingal copy aja !
+
