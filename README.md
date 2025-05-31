@@ -74,9 +74,7 @@ Atau langsung dari GitHub Releases:
 
 ---
 
-### 🧩 **NvChad (Opsional)**
 
-Konfigurasi ini juga dari basis **NvChad**, framework modular Neovim yang ringan dan siap pakai. tapi saya menambahkan beberapa plugin untuk keperluan !!
 
 🔧 Cara instalasi:
 
